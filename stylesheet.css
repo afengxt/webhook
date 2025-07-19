@@ -54,10 +54,10 @@ a, a:visited {
 
 #link, #username, #content, #avatar {
     font-size: 25px;
-    background-color: #ffffff;
+    background-color: #000000;
     width: 75%;
     padding: 20px;
-    border: 2px solid #000000c9;
+    border: 2px solid #ffffffc9;
 }
 
 #btn {
@@ -65,8 +65,8 @@ a, a:visited {
     font-size: 25px;
     margin-top: 25px;
     padding: 17px;
-    background-color: #1d6e6e;
-    border: 2px solid #000000c9;
+    background-color: #000000;
+    border: 2px solid #ffffffc9;
 }
 
 #btn:hover { 
